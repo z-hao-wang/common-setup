@@ -1,4 +1,4 @@
-# usage curl 
+# usage curl https://raw.githubusercontent.com/z-hao-wang/common-setup/main/setup-docker.sh | bash
 sudo apt-get update
 sudo apt-get install -y \
     ca-certificates \
